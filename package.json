@@ -1,6 +1,6 @@
 {
   "name": "build-busted",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Runs busted unit testing for Lua projects",
   "repository": "https://github.com/xpol/atom-build-busted",
   "license": "MIT",
