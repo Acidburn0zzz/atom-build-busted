@@ -2,7 +2,7 @@
 
 Adds [busted][] targets for [atom-build][].
 
-![](busted.png)
+![](https://raw.githubusercontent.com/xpol/atom-build-busted/master/busted.png)
 
 ## How It Works
 
